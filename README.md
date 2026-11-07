@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MFM Tentmakers France — website
 
 Ministère de la Montagne de Feu et des Miracles, Bâtisseurs de Tente
@@ -28,3 +29,7 @@ To send requests to another address (e.g. the pastor), change APPOINTMENT_EMAIL 
 ## Publish online
    npm run build
 This creates a "dist" folder. Upload it to Netlify (app.netlify.com/drop), Vercel or any web host.
+=======
+# MFM-Church
+MFM Church
+>>>>>>> 84fc916885b5b0f81907c929f48402a28c65e1dc
