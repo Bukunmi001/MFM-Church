@@ -10,7 +10,7 @@ export default function Footer({ t }) {
           <p className="footer__name">{t.churchName}</p>
           <p className="footer__branch">{t.branch}</p>
           <a href={FACEBOOK_URL} target="_blank" rel="noreferrer" className="footer__social">
-            <Facebook size={18} /> Tentmakers France
+            <Facebook size={18} /> MFM France
           </a>
         </div>
 

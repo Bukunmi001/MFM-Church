@@ -51,11 +51,11 @@ export const REASONS = [
 export const TEXT = {
   en: {
     churchName: "Mountain of Fire and Miracles Ministries",
-    branch: "Tentmakers France",
+    branch: " France",
     nav: { home: "Home", services: "Service times", visit: "Visit us", appointment: "Appointment", contact: "Contact" },
     languageLabel: "Language",
     slides: [
-      { title: "Welcome to MFM Tentmakers France", text: "Worship with us in Sarcelles every Sunday." },
+      { title: "Welcome to MFM  France", text: "Worship with us in Sarcelles every Sunday." },
       { title: "Sunday service", text: "10:00 am to 1:00 pm — everyone is welcome." },
       { title: "Online prayer", text: "Every Thursday or Friday, 10:00 pm to 10:30 pm." },
       { title: "Find the hall", text: "30 Avenue du 8 Mai 1945, Sarcelles — third floor, on the left." },
@@ -63,7 +63,7 @@ export const TEXT = {
     cta: { visit: "Plan your visit", appointment: "Book an appointment" },
     prev: "Previous photo", next: "Next photo", goTo: "Show photo", photoBy: "Photo",
     welcomeTitle: "You are welcome here",
-    welcomeText: "Mountain of Fire and Miracles Ministries Tentmakers is a branch of MFM in France. Join us in person on Sundays and online during the week for prayer, worship and the Word.",
+    welcomeText: "Mountain of Fire and Miracles Ministries  is a branch of MFM in France. Join us in person on Sundays and online during the week for prayer, worship and the Word.",
     servicesTitle: "Service times",
     services: [
       { name: "Sunday service", when: "Every Sunday", time: "10:00 am – 1:00 pm", where: "In person, Sarcelles" },
@@ -133,11 +133,11 @@ export const TEXT = {
 
   es: {
     churchName: "Ministerio Montaña de Fuego y Milagros",
-    branch: "Tentmakers France",
+    branch: " France",
     nav: { home: "Inicio", services: "Horarios", visit: "Visítenos", appointment: "Cita", contact: "Contacto" },
     languageLabel: "Idioma",
     slides: [
-      { title: "Bienvenidos a MFM Tentmakers France", text: "Adore con nosotros en Sarcelles cada domingo." },
+      { title: "Bienvenidos a MFM France", text: "Adore con nosotros en Sarcelles cada domingo." },
       { title: "Culto dominical", text: "De 10:00 a 13:00 — todos son bienvenidos." },
       { title: "Oración en línea", text: "Todos los jueves o viernes, de 22:00 a 22:30." },
       { title: "Cómo llegar a la sala", text: "30 Avenue du 8 Mai 1945, Sarcelles — tercer piso, a la izquierda." },
@@ -145,7 +145,7 @@ export const TEXT = {
     cta: { visit: "Planifique su visita", appointment: "Pedir una cita" },
     prev: "Foto anterior", next: "Foto siguiente", goTo: "Mostrar foto", photoBy: "Foto",
     welcomeTitle: "Aquí es bienvenido",
-    welcomeText: "El Ministerio Montaña de Fuego y Milagros Tentmakers es una rama de MFM en Francia. Acompáñenos en persona los domingos y en línea durante la semana para orar, adorar y escuchar la Palabra.",
+    welcomeText: "El Ministerio Montaña de Fuego y Milagros  es una rama de MFM en Francia. Acompáñenos en persona los domingos y en línea durante la semana para orar, adorar y escuchar la Palabra.",
     servicesTitle: "Horarios",
     services: [
       { name: "Culto dominical", when: "Cada domingo", time: "10:00 – 13:00", where: "Presencial, Sarcelles" },
@@ -174,11 +174,11 @@ export const TEXT = {
 
   it: {
     churchName: "Ministero Montagna di Fuoco e Miracoli",
-    branch: "Tentmakers France",
+    branch: " France",
     nav: { home: "Home", services: "Orari", visit: "Venite a trovarci", appointment: "Appuntamento", contact: "Contatti" },
     languageLabel: "Lingua",
     slides: [
-      { title: "Benvenuti a MFM Tentmakers France", text: "Adorate con noi a Sarcelles ogni domenica." },
+      { title: "Benvenuti a MFM  France", text: "Adorate con noi a Sarcelles ogni domenica." },
       { title: "Culto domenicale", text: "Dalle 10:00 alle 13:00 — tutti sono i benvenuti." },
       { title: "Preghiera online", text: "Ogni giovedì o venerdì, dalle 22:00 alle 22:30." },
       { title: "Come raggiungere la sala", text: "30 Avenue du 8 Mai 1945, Sarcelles — terzo piano, a sinistra." },
@@ -186,7 +186,7 @@ export const TEXT = {
     cta: { visit: "Organizza la tua visita", appointment: "Prenota un appuntamento" },
     prev: "Foto precedente", next: "Foto successiva", goTo: "Mostra foto", photoBy: "Foto",
     welcomeTitle: "Qui sei il benvenuto",
-    welcomeText: "Il Ministero Montagna di Fuoco e Miracoli Tentmakers è una sede di MFM in Francia. Unisciti a noi in presenza la domenica e online durante la settimana per la preghiera, la lode e la Parola.",
+    welcomeText: "Il Ministero Montagna di Fuoco e Miracoli è una sede di MFM in Francia. Unisciti a noi in presenza la domenica e online durante la settimana per la preghiera, la lode e la Parola.",
     servicesTitle: "Orari",
     services: [
       { name: "Culto domenicale", when: "Ogni domenica", time: "10:00 – 13:00", where: "In presenza, Sarcelles" },
